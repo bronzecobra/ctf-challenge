@@ -1,4 +1,4 @@
-A tech startup called HyperNovatech has recently laid off one of their employees - Jacob Whitman. However they have reason to suspect that he has secretly opened a backdoor into their system and is accessing the comap. They have hired you, a world-renowned cyber security specialist to find out how Jacob is retrieving this information so that they can sue him for millions and ruin his life (again).
+A tech startup called HyperNovatech has recently laid off one of their employees - Jacob Whitman. However they have reason to suspect that he has secretly opened a backdoor into their system and is accessing company datat. They have hired you, a world-renowned cyber security specialist to find out how Jacob is retrieving this information so that they can sue him for millions and ruin his life (again).
 
 # Task 1
 Find Jacob's LinkedIn, maybe there will be some more information there...
